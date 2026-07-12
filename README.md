@@ -24,8 +24,6 @@
 - [💻 Sistem Gereksinimleri](#-sistem-gereksinimleri)
 - [🚀 Kurulum Adımları](#-kurulum-adımları)
 - [🗂️ Proje Mimarisi](#️-proje-mimarisi)
-- [💡 Gelecek Geliştirmeler](#-gelecek-geliştirmeler-roadmap)
-- [🤝 Katkıda Bulunma](#-katkıda-bulunma)
 
 ---
 
@@ -141,17 +139,3 @@ Proje dizin yapısı, anlaşılabilirlik ve sürdürülebilirlik açısından Ç
 ├── 📁 HospitalAppMvc/    # Web API ile haberleşen son kullanıcı arayüz katmanı
 └── 📁 HospitalAppDppr/   # Dapper (Micro-ORM) ile veri erişimi yapılan katman
 ```
-
----
-
-## 💡 Gelecek Geliştirmeler (Roadmap)
-
-- [ ] 📧 **E-posta & Bildirim Sistemi:** Yeni kayıt veya randevu işlemlerinde otomatik bilgilendirme.
-- [ ] 📊 **Kapsamlı Raporlama Dashboard'u:** Hastane yöneticileri için istatistiksel grafik ve rapor ekranları.
-- [ ] 🐳 **Docker Entegrasyonu:** Projenin containerize (Docker) edilerek daha kolay dağıtılabilir hale getirilmesi.
-
----
-
-## 🤝 Katkıda Bulunma
-
-Bu proje bir bitirme projesi olduğu için şu anlık geliştirme aşamalarını tamamlamıştır, ancak tavsiye ve katkılarınıza her zaman açıktır. Repoyu `fork` edip geliştirme yapabilirsiniz.
